@@ -25,5 +25,7 @@
    <a href="www.linkedin.com/in/emilio-augusto-932b04339" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<img src="https://raw.githubusercontent.com/emiliougusto/emiliougusto/output/snake.svg" alt="Snake animation" />
+
  ##
 
