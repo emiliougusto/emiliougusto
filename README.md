@@ -1,7 +1,7 @@
 ## Olá! Sou Emilio Augusto Geib da Silva
 
 <div>
-  <a href="https://github.com/Borges1607">
+  <a href="https://github.com/emiliougusto">
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Borges1607&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliougusto&layout=compact&langs_count=16&langs_count_private=true&theme=dracula"/>
   </a>
